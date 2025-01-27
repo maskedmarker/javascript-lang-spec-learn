@@ -1,0 +1,25 @@
+### javaIgnore template
+# Compiled class file
+*.class
+
+# Intellij
+.idea/
+*.iml
+
+# Eclipse
+.project
+.settings/
+.classpath
+
+# Maven
+target/
+
+# Gradle
+build
+.gradle
+
+#logs
+logs/
+
+# nodejs
+node_modules/
